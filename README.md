@@ -4,7 +4,7 @@ Clone this repository for the demo
 
 # Please fill out your favorite food:
 
-Julien:
+Julien: pizza
 
 Josh:
 
