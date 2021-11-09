@@ -1,6 +1,6 @@
 # DeveloperConferenceDemo
-Clone this repository for the demo
 
+Clone this repository for the demo
 
 # Please fill out your favorite food:
 
@@ -20,7 +20,6 @@ Walt:
 
 Erin:
 
-Rebecca:
-
+Rebecca: Tacos
 
 # Add a picture of the food to this repository
