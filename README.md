@@ -20,6 +20,6 @@ Walt: Steak
 
 Erin:
 
-Rebecca:
+Rebecca: Tacos
 
 # Add a picture of the food to this repository
