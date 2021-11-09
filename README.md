@@ -6,17 +6,17 @@ Clone this repository for the demo
 
 Julien: pizza
 
-Josh:
+Josh: yogurt, granola, fruit
 
-Lhomond:
+Lhomond: Creme Brulee
 
-Devon:
+Devon: Peach
 
-Steve:
+Steve: chocolate
 
-Ramon:
+Ramon: Tacos
 
-Walt:
+Walt: Steak
 
 Erin:
 
